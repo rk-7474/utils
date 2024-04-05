@@ -22,3 +22,10 @@ Phind (phind.com)
 
 #### Note taking app
 Obsidian (https://obsidian.md/)
+
+#### Take your firefox to the next level
+FirefoxCSS sub-reddit styles (https://www.reddit.com/r/FirefoxCSS/top/?t=all)
+Betterfox privacy and performance settings (https://github.com/yokoffing/BetterFox)
+
+#### Better linux terminal (with integrated AI)
+Warp-terminal (https://warp.dev)
