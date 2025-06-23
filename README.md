@@ -16,9 +16,6 @@ Ghostery (https://www.ghostery.com/)
 #### Custom Windows OS for gaming
 Atlas OS (https://atlasos.net/)
 
-#### GPT AI Search tool for developers
-Phind (phind.com)
-
 #### Take your firefox to the next level
 FirefoxCSS sub-reddit styles (https://www.reddit.com/r/FirefoxCSS/top/?t=all)
 Betterfox privacy and performance settings (https://github.com/yokoffing/BetterFox)
