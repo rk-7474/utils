@@ -29,3 +29,6 @@ LibreWolf (https://librewolf.net/)
 #### An easy way to remove junk or unused files
 Windows: WizTree (https://www.diskanalyzer.com/)
 Linux: ncdu (https://linuxblog.io/ncdu-command-in-linux-examples/)
+
+#### Pirate streaming and downloading bible
+FREE MEDIA (https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/)
